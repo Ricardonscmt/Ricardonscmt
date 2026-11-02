@@ -1,39 +1,31 @@
-# Olá, eu sou o José Ricardo! 👋
+# Olá, eu sou o Ricardo 👋
 
-### 📊 Data Engineer Jr. em formação | ☁️ Automação & Cloud (Azure)
+**Analista de Dados Jr. | Engenharia de Dados em formação**
+Estudante de Engenharia de Software (UNICEPLAC) e estagiário de dados na ADASA, onde desenvolvo painéis em Power BI e automações em Python.
 
-Estudante de Engenharia de Software e Estagiário de Dados na ADASA. Meu diferencial é unir uma base técnica na extração e transformação de dados com a maturidade de negócios adquirida nos setores financeiro e público. Construo soluções que vão desde a limpeza estrutural de bases de dados até a entrega de painéis executivos e integrações de processos com inteligência artificial.
+## O que faço
+- Painéis e modelagem de dados com **Power BI** (DAX e Power Query)
+- Tratamento e automação de dados com **Python** (Pandas, NumPy)
+- Consultas e modelagem com **SQL**
 
-- 🚀 **O que estou construindo:** Pipelines de dados (ETL), dashboards gerenciais e integrações com IA Generativa.
-- 🧠 **Foco atual:** Aprimorando consultas complexas em **SQL**, manipulação de dados com `pandas` e orquestração de modelos no ecossistema Microsoft Azure.
-- 💡 **Diferencial:** Capacidade de traduzir regras de negócio complexas em arquiteturas de dados eficientes e seguras.
+## Estudando agora
+- SQL avançado (window functions, CTEs)
+- Pipelines de ETL com Python e SQL
+- Git e Docker
 
----
+## Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-### 🛠️ Tech Stack
+## Projetos
+- [Projeto Sorvete](https://github.com/Ricardonscmt/Projeto-Sorvete): regressão para prever vendas com Azure ML
+- [MLflow + Azure ML](https://github.com/Ricardonscmt/azure-mlflow-experiment-tracking): rastreamento de experimentos
+- [Chatbot de estudos com PDFs](https://github.com/Ricardonscmt/Chatbot-Baseado-em-Conte-do-de-PDFs)
+<!-- Quando publicar o ETL, coloque ele em primeiro lugar nesta lista -->
 
-**Engenharia de Dados & Visualização:**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Cloud, Automação & DevOps:**<br>
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Projetos em Destaque
-
-* **[Chatbot-Clinica]**: Assistente conversacional desenvolvido em Python, focado em otimizar o fluxo de Whatsapp e agendamentos automaticos. 
-* **Projeto Sorvete:** Pipeline de regressão end-to-end estruturado no Azure Machine Learning Studio para predição de vendas com base em variáveis climáticas.
-* **Dashboard de Regulação (ADASA):** *(Projeto Interno)* Processamento de dados brutos e desenvolvimento de painéis interativos utilizando DAX e Power Query para embasamento de decisões da diretoria.
-
----
-
-### 📫 Vamos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-nascimento-f)
+## Contato
+[LinkedIn](https://www.linkedin.com/in/ricardo-nascimento-f/)
