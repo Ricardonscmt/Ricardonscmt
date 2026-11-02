@@ -24,7 +24,7 @@ Estudante de Engenharia de Software (UNICEPLAC) e estagiário de dados na ADASA,
 ## Projetos
 - [Projeto Sorvete](https://github.com/Ricardonscmt/Projeto-Sorvete): regressão para prever vendas com Azure ML
 - [MLflow + Azure ML](https://github.com/Ricardonscmt/azure-mlflow-experiment-tracking): rastreamento de experimentos
-- [Chatbot de estudos com PDFs](https://github.com/Ricardonscmt/Chatbot-Baseado-em-Conte-do-de-PDFs)
+
 <!-- Quando publicar o ETL, coloque ele em primeiro lugar nesta lista -->
 
 ## Contato
